@@ -20,4 +20,5 @@ Fue diseñado para tener un uso completamente intuitivo y amigable con el usuari
    
 ## Screenshot
 
+![image](https://github.com/j-gabriel-ortiz/PlayHangman-Pyton-Tkinter/assets/71393247/997874a6-764d-4332-b461-4c6e3170aa00)
 
